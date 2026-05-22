@@ -1,0 +1,6 @@
+{
+  "name": "UniVerse",
+  "description": "The digital campus platform for Nigerian and African students combining social updates, academic collaboration, opportunities, and AI student tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
